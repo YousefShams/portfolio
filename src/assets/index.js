@@ -6,6 +6,8 @@ import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
+import computer from "./computer.json";
+import earth from "./earth.json";
 
 
 import figma from "./tech/figma.png";
@@ -46,5 +48,7 @@ export {
   fitkit_project,
   tabkha_project,
   colorverse_project,
-  placeholder_project
+  placeholder_project,
+  computer,
+  earth
 };
