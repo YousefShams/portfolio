@@ -22,7 +22,7 @@ const Hero = () => {
             I develop mobile applications, <br className='sm:block hidden' />
             using Flutter and Dart
           </p>
-          <div style={{margin:'auto', width : "50%"}}> <ComputersCanvas /> </div>
+          <div style={{margin:'0 auto', width : "50%"}}> <ComputersCanvas /> </div>
         </div>
       </div>
     </section>
