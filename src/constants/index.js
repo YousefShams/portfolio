@@ -15,7 +15,11 @@ import {
   fitkit_project,
   tabkha_project,
   colorverse_project,
-  placeholder_project
+  picquery_project,
+  reaction_project,
+  screen_project,
+  snake_project,
+  feed_project
 } from "../assets";
 
 export const navLinks = [
@@ -199,7 +203,7 @@ const projects = [
         color: "green-text-gradient",
       },
     ],
-    image: placeholder_project,
+    image: picquery_project,
     source_code_link: "https://github.com/YousefShams",
   },
   {
@@ -234,7 +238,7 @@ const projects = [
         color: "green-text-gradient",
       },
     ],
-    image: placeholder_project,
+    image: screen_project,
     source_code_link: "https://github.com/YousefShams",
   },
 
@@ -251,7 +255,7 @@ const projects = [
         color: "green-text-gradient",
       },
     ],
-    image: placeholder_project,
+    image: reaction_project,
     source_code_link: "https://github.com/YousefShams",
   },
   {
@@ -268,7 +272,7 @@ const projects = [
         color: "green-text-gradient",
       },
     ],
-    image: placeholder_project,
+    image: snake_project,
     source_code_link: "https://github.com/YousefShams",
   },
   {
@@ -285,7 +289,7 @@ const projects = [
         color: "green-text-gradient",
       },
     ],
-    image: placeholder_project,
+    image: feed_project,
     source_code_link: "https://github.com/YousefShams",
   },
 ];
